@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech CSE '26 | Web Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer+💻;React+Enthusiast+⚛️;DSA+%26+Java+Programmer+💡;MongoDB+%7C+SQL+%7C+C+Coder;Creator+of+AI+Sara+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Java+%7C+MongoDB+%7C+SQL;Frontend+%2B+Backend+Explorer+%F0%9F%9A%80;B.Tech+CSE+'26+Student+%F0%9F%8E%93;DSA+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
