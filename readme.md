@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanmon&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayanmon&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=void-sayan&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=void-sayan&theme=tokyonight" />
 </p>
 
 
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayanmon&label=Profile+Views&color=brightgreen" alt="sayanmon" />
+  <img src="https://komarev.com/ghpvc/?username=void-sayan&label=Profile+Views&color=brightgreen" alt="void-sayan" />
 </p>
 
 <p align="center">
